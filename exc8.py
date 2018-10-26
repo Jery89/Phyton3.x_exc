@@ -7,6 +7,7 @@ while condition:
 
     if player1 == player2:
         print('one more time')
+        continue
     if player1 == 'I':
         if player2 == 'X':
             print("Player 2 won!")
