@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38061a3c-c3cc-4095-baca-8f79a7513fd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exc13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exc15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,24 +22,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="14" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5061" />
-          <entry key="txt" value="74" />
+          <entry key="py" value="5567" />
+          <entry key="txt" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="74" />
-          <entry key="Python" value="5061" />
+          <entry key="PLAIN_TEXT" value="76" />
+          <entry key="Python" value="5567" />
         </counts>
       </usages-collector>
     </session>
@@ -55,13 +55,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exc13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="216">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding>
-                <marker date="1540744471781" expanded="true" signature="22:27" ph="..." />
+                <marker date="1540745386503" expanded="true" signature="22:27" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exc14.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <marker date="1540747423932" expanded="true" signature="42:184" ph="..." />
+                <marker date="1540747423932" expanded="true" signature="208:213" ph="..." />
+                <marker date="1540747423932" expanded="true" signature="208:233" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exc15.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding>
+                <marker date="1540747864546" expanded="true" signature="15:20" ph="..." />
               </folding>
             </state>
           </provider>
@@ -96,6 +122,8 @@
         <option value="$PROJECT_DIR$/exc11.py" />
         <option value="$PROJECT_DIR$/exc12.py" />
         <option value="$PROJECT_DIR$/exc13.py" />
+        <option value="$PROJECT_DIR$/exc14.py" />
+        <option value="$PROJECT_DIR$/exc15.py" />
       </list>
     </option>
   </component>
@@ -138,28 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exc13">
-    <configuration name="exc10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Phyton_exc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.exc15">
     <configuration name="exc11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton_exc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exc9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exc14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton_exc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,7 +242,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exc15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Phyton_exc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,19 +273,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.exc9" />
-      <item itemvalue="Python.exc10" />
       <item itemvalue="Python.exc11" />
       <item itemvalue="Python.exc12" />
       <item itemvalue="Python.exc13" />
+      <item itemvalue="Python.exc14" />
+      <item itemvalue="Python.exc15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exc15" />
+        <item itemvalue="Python.exc14" />
         <item itemvalue="Python.exc13" />
         <item itemvalue="Python.exc12" />
         <item itemvalue="Python.exc11" />
-        <item itemvalue="Python.exc10" />
-        <item itemvalue="Python.exc9" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1540744133427</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="exc13">
+      <created>1540745409736</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540745409736</updated>
+    </task>
+    <task id="LOCAL-00014" summary="exc14">
+      <created>1540747438515</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1540747438515</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -393,7 +435,9 @@
     <MESSAGE value="exc10 some new code and test" />
     <MESSAGE value="exc11" />
     <MESSAGE value="exc12" />
-    <option name="LAST_COMMIT_MESSAGE" value="exc12" />
+    <MESSAGE value="exc13" />
+    <MESSAGE value="exc14" />
+    <option name="LAST_COMMIT_MESSAGE" value="exc14" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/exc3.py">
@@ -483,10 +527,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exc13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="216">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
-            <marker date="1540744471781" expanded="true" signature="22:27" ph="..." />
+            <marker date="1540745386503" expanded="true" signature="22:27" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <marker date="1540747423932" expanded="true" signature="42:184" ph="..." />
+            <marker date="1540747423932" expanded="true" signature="208:213" ph="..." />
+            <marker date="1540747423932" expanded="true" signature="208:233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <marker date="1540747864546" expanded="true" signature="15:20" ph="..." />
           </folding>
         </state>
       </provider>
