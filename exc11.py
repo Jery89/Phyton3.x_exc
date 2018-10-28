@@ -8,3 +8,4 @@ while True:
     else:
         print('liczba %i nie jest liczba pierwsza' % bufor)
         print('podzielniki:') + str(podzielniki)
+#znajdowanie liczb pierwszych
