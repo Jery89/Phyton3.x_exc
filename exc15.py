@@ -1,4 +1,4 @@
 def rev(input):
-    return "".join(list(reversed(input)))
+    return " ".join(input.split('')[::-1])
 #test
-print(rev('someLongStringWord'))
+print(rev('some Long String Word'))
