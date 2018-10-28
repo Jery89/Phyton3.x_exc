@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38061a3c-c3cc-4095-baca-8f79a7513fd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exc11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exc10.py" beforeDir="false" afterPath="$PROJECT_DIR$/exc10.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,39 +21,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4015" />
-          <entry key="txt" value="44" />
+          <entry key="py" value="4617" />
+          <entry key="txt" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="4015" />
+          <entry key="PLAIN_TEXT" value="72" />
+          <entry key="Python" value="4617" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exc3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exc4.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,11 +117,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exc10.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
               <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exc11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -161,6 +161,7 @@
         <option value="$PROJECT_DIR$/exc8.py" />
         <option value="$PROJECT_DIR$/exc9.py" />
         <option value="$PROJECT_DIR$/exc10.py" />
+        <option value="$PROJECT_DIR$/exc11.py" />
       </list>
     </option>
   </component>
@@ -203,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exc10">
+  <component name="RunManager" selected="Python.exc11">
     <configuration name="exc10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton_exc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exc6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exc11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton_exc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,19 +311,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.exc6" />
       <item itemvalue="Python.exc7" />
       <item itemvalue="Python.exc8" />
       <item itemvalue="Python.exc9" />
       <item itemvalue="Python.exc10" />
+      <item itemvalue="Python.exc11" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exc11" />
         <item itemvalue="Python.exc10" />
         <item itemvalue="Python.exc9" />
         <item itemvalue="Python.exc8" />
         <item itemvalue="Python.exc7" />
-        <item itemvalue="Python.exc6" />
       </list>
     </recent_temporary>
   </component>
@@ -386,14 +387,22 @@
       <option name="project" value="LOCAL" />
       <updated>1540727863975</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="exc10 some new code and test">
+      <created>1540728467411</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540728467411</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" weight="0.32921347" />
@@ -401,7 +410,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2891089" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2891089" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,7 +428,8 @@
     <MESSAGE value="more code" />
     <MESSAGE value="exc8 some more code" />
     <MESSAGE value="exc9 some more code" />
-    <option name="LAST_COMMIT_MESSAGE" value="exc9 some more code" />
+    <MESSAGE value="exc10 some new code and test" />
+    <option name="LAST_COMMIT_MESSAGE" value="exc10 some new code and test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/exc3.py">
@@ -496,6 +506,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exc11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
